@@ -15,7 +15,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     var city: String = "Barcelona,ES"
-    val api: String = "0a2e557f41a5a091276f0f53b5de62c3"
+    val api: String = "Enter User Token generated in https://openweathermap.org/api"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         val screenSplash = installSplashScreen()
