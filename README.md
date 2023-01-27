@@ -5,7 +5,7 @@ Aplicación con conexión a la siguiente API: https://openweathermap.org/api , e
 
 ## Imágenes demostración
 
-![Alt text](https://github.com/DavidMateosSanchez/7WondersQuizApp/blob/d3a645775bc50177f36a396f08c768784e04d8ba/fotosJuntas.png)
+![Alt text]([https://github.com/DavidMateosSanchez/7WondersQuizApp/blob/d3a645775bc50177f36a396f08c768784e04d8ba/fotosJuntas.png])
 
 ## Tecnologías y herramientas utilizadas 
 
